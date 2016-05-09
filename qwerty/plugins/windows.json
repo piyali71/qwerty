@@ -1,0 +1,80 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "1234567890",
+            "PACKAGE_NAME": "qwerty"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "qwerty"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "qwerty"
+        }
+    }
+}
